@@ -9,6 +9,8 @@ name = "pypi"
 
 requests = "*"
 jupyter = "*"
+"bs4" = "*"
+tqdm = "*"
 
 
 [dev-packages]
